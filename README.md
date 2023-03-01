@@ -1,4 +1,4 @@
-# Insert Lesson Title
+# JS Control Structures and Loops
 
 ## Dependencies
 
@@ -10,10 +10,13 @@ Refer to the following markdown file for the respective sections of the class:
 ## Lesson Objectives
 
 Learners will understand:
-- Insert the knowledge to be acquired
+- What conditional statements are and why are they important
+- What loops are and why are they important
+- Understand the different use cases for each loop
 
 Learners will be able to:
-- Insert the skillset to be acquired
+- Create decision paths using if-else statements
+- Create repeating executions using loop statements
 
 
 ## Lesson Plan
