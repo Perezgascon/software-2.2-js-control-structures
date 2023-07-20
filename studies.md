@@ -6,7 +6,7 @@ Technical knowledge is vast. Timebox yourself for 3 hours to work on the followi
 
 ### Video 
 
-- add links
+- [Control Structures](https://www.youtube.com/watch?v=TDNg9V6aDZ0&list=PLt7lfI4X3GPXU8Fg2iVOukTdvey5WwK1Y)
 
 ### Readings
 
