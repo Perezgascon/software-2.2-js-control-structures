@@ -5,6 +5,20 @@ let q1test = 15;
 
 //Add code here
 
+if (q1test % 3 == 0 && q1test % 5 == 0) {
+    console.log("This number is divisible by 3 and 5")
+
+} else if (q1test % 3 == 0) {
+    console.log("This number is divisible by just 3")
+
+} else if (q1test % 5 == 0) {
+    console.log("This number is divisible by just 5")
+
+} else {
+    console.log("This number is not divisible by either 3 or 5")
+
+}
+
 //Q2. Using an if-else statement, determin is a year is a leap year or not.
 //Research what are the conditions to be considered a leap year.
 
