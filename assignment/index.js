@@ -29,6 +29,16 @@ let year = 1999;
 
 //Add code here
 
+if (year % 4 !== 0) {
+    console.log("This is NOT a leap year")
+} else if (year % 100 !== 0) {
+    console.log("This is a leap year")
+} else if (year % 400 === 0) {
+    console.log("This is a leap year")
+} else {console.log("This is NOT a leap year")}
+    
+
+
 //Q3. Use a loop to print all the numbers from 1 to 100 that are divisible by 3 or 4.
 
 //Add code here
